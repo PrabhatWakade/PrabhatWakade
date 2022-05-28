@@ -1,4 +1,4 @@
-[![MasterHead](https://www.icriindia.com/uploads/courses/banner/1a166ab3701560420635.jpg)]
+[![MasterHead]([https://www.icriindia.com/uploads/courses/banner/1a166ab3701560420635.jpg](https://content.techgig.com/thumb/msid-81207309,width-860,resizemode-4/5-Essential-software-developer-skills-to-get-hired-in-2021.jpg?85576))]
 <h1 align="center">Hi 👋, I'm Prabhat</h1>
 <h3 align="center">A passionate Data Science undergrad student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?w=247&h=185&c=7&r=0&o=5&dpr=1.25&pid=1.7">
