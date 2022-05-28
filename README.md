@@ -1,6 +1,5 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.mw4DqF28BI8D3-dM7Y1wwAHaDt?w=335&h=175&c=7&r=0&o=5&dpr=1.25&pid=1.7)]
 <h1 align="center">Hi 👋, I'm Prabhat</h1>
-<h3 align="center">A passionate Data Science undergrad student from India</h3>
+<h3 align="center">A Passionate Data Science Undergrad Student From India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?w=247&h=185&c=7&r=0&o=5&dpr=1.25&pid=1.7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhatwakade&label=Profile%20views&color=0e75b6&style=flat" alt="prabhatwakade" /> </p>
